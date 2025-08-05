@@ -1,6 +1,10 @@
 # homelab-infra
 Repo for automation training on my homelab
 
+# 🧪 Homelab Infra Lab
+
+Welcome to my automation playground! This repo is for experimenting with Terraform, Ansible, Proxmox, AWS, and Lima to build a modular homelab.
+
 ## 📁 Project Structure
 
 ```
