@@ -1,6 +1,9 @@
 # homelab-infra
 Repo for automation training on my homelab
 
+## 📁 Project Structure
+
+```
 homelab-infra/
 ├── README.md
 ├── main.tf
@@ -29,3 +32,4 @@ homelab-infra/
 │   ├── setup.sh (bootstraps Terraform, Ansible, Git, etc.)
 │   └── notes.md (usage tips, Lima quirks, etc.)
 └── .gitignore
+```
